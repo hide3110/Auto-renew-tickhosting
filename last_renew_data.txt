@@ -1,4 +1,4 @@
-Server ID: f49c91ba
-Renew status: Success
-Last renewal time: 2024-12-21 15:17:04
-New expiration time: 2025-01-04 15:03:12
+Server ID: Unknown
+Renew status: Failed
+Last renewal time: 2024-12-25 01:00:45
+Error: An error occurred: Unable to login to dashboard
